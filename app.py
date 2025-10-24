@@ -44,5 +44,18 @@ display_type = display_map[display_type]
 # Predict button
 if st.button("Predict Price"):
     input_data = pd.DataFrame([[
-        build_os, sim_type, cpu_cores, display_type, ram_gb, storage_gb, camera_mp,
-        battery_mAh, wifi_version, dual_band, tri_band, hotspot, wifi_direct,
+        build_os, sim_type, cpu_cores,
+        display_type, ram_gb, storage_gb, camera_mp, battery_mAh,
+        wifi_version, dual_band, tri_band, hotspot, wifi_direct,
+        accelerometer, compass, fingerprint, barometer, heart_rate
+    ]], columns=[
+        'Build_OS', 'SIM_Type', 'CPU_Cores', 'Display_Type', 'RAM_GB',
+        'Storage_GB', 'Camera_MP', 'Battery_mAh', 'WiFi_Version',
+        'Dual_Band', 'Tri_Band', 'Hotspot', 'WiFi_Direct',
+        'Accelerometer', 'Compass', 'Fingerprint', 'Barometer', 'HeartRate'
+    ])
+
+    price = model.predict(input_data)[0]
+    st.success(f"Predicted Price: {price:.2f} PKR")
+
+st.caption("Samsung Mobile Price Prediction App ")
