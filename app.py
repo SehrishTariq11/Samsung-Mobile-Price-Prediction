@@ -3,9 +3,9 @@ import pandas as pd
 import joblib
 
 # Load model pipeline
-model = joblib.load('model_polynomial.pkl')
+model = joblib.load('model_po.pkl')
 
-st.title(" Samsung Price Prediction")
+st.title(" Samsung  Moibe Price Prediction")
 
 # Inputs
 build_os = st.number_input("Build OS", min_value=10, max_value=20, value=14)
