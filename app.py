@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load model pipeline
-model = joblib.load('/content/model.pkl')
+model = joblib.load('model.pkl')
 
 st.title(" Samsung Price Prediction")
 
