@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load model pipeline
-model = joblib.load('model_poly(2).pkl')
+model = joblib.load('model_polynomial.pkl')
 
 st.title(" Samsung Price Prediction")
 
