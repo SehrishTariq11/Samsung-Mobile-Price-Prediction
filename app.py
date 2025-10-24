@@ -51,10 +51,6 @@ if st.button("🔍 Predict Price"):
 
     predicted_price = model.predict(df)[0]
 
-    st.success(f" Predicted Price: **{round(predicted_price):,} PKR** 💰")
+    st.success(f" Predicted Price: **{round(predicted_price):,} PKR** ")
 
-st.caption("Polynomial Regression + Streamlit 🚀")
-
-
-
-
+st.caption(" Polynomial Regression + Streamlit ")
