@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load model pipeline
-model = joblib.load('model_po.pkl')
+model = joblib.load('model_polynomial.pkl')
 
 st.title(" Samsung  Moibe Price Prediction")
 
@@ -54,3 +54,5 @@ if st.button("Predict Price"):
 
     price = model.predict(df)[0]
     st.success(f" Predicted Price: **{round(price):,} PKR** ")
+
+
