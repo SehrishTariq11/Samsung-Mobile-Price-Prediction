@@ -1,0 +1,129 @@
+﻿Name,Price,Build_OS,SIM_Type,CPU_Cores,Display_Type,RAM_GB,Storage_GB,Camera_MP,Battery_mAh,WiFi_Version,Dual_Band,Tri_Band,Hotspot,WiFi_Direct,Accelerometer,Compass,Fingerprint,Barometer,HeartRate
+SamsungGalaxy Z Fold 6,604999.0,14,Dual SIM,8,Dynamic Amoled,12,512,50,4400,7,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy S24 Ultra 512GB,469999.0,14,Dual SIM,8,Ltpo Amoled,12,512,200,5000,7,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy S25 Ultra,439999.0,15,Dual SIM,8,Ltpo Amoled,12,512,200,5000,7,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy S24 Ultra,434999.0,14,Dual SIM,8,Ltpo Amoled,12,256,200,5000,7,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy Z Fold 5,399999.0,13,Dual SIM,8,Foldable,12,512,50,4400,7,No,Yes,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy Z Flip 6,384999.0,14,Single SIM,8,Foldable,12,512,50,4000,6,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy Z Flip 5,368999.0,13,Single SIM,8,Foldable,12,512,12,3700,6,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy S25,314999.0,15,Single SIM,8,Ltpo Amoled,12,512,50,4000,6,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy S24,289999.0,14,Dual SIM,10,Ltpo Amoled,8,512,50,4000,6,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy S25 FE 512GB,254999.0,16,Dual SIM,10,Ltpo Amoled,8,512,50,4900,6,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy S25 FE,219999.0,16,Dual SIM,10,Ltpo Amoled,8,256,50,4900,6,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy S24 FE,219999.0,14,Dual SIM,10,Dynamic Amoled,8,256,50,4700,6,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy S23 FE,204999.0,13,Dual SIM,8,Dynamic Amoled,8,256,50,4500,6,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A54,140999.0,13,Dual SIM,8,Super Amoled,8,256,50,5000,6,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A55,139999.0,14,Dual SIM,8,Super Amoled,8,256,50,5000,6,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A56,137999.0,15,Dual SIM,8,Super Amoled,8,256,50,5000,6,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A35,119999.0,14,Dual SIM,8,Super Amoled,8,256,50,5000,6,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A36,119999.0,15,Dual SIM,8,Super Amoled,8,256,50,5000,6,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A34 256GB,114999.0,13,Dual SIM,8,Super Amoled,8,256,48,5000,5,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A34,109999.0,13,Dual SIM,8,Super Amoled,8,128,48,5000,5,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A25,98499.0,14,Dual SIM,8,Super Amoled,8,256,50,5000,5,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A26,84999.0,15,Dual SIM,8,Super Amoled,8,256,50,5000,6,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A24,72999.0,13,Dual SIM,8,Super Amoled,8,128,50,5000,5,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A17 8GB,62999.0,15,Dual SIM,8,Super Amoled,8,256,50,5000,5,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A13 128GB,62999.0,12,Dual SIM,8,Tft,4,128,50,5000,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A16 8GB,61999.0,14,Dual SIM,8,Super Amoled,8,256,50,5000,5,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A15 256GB,59999.0,14,Dual SIM,8,Super Amoled,8,256,50,5000,5,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A17,54999.0,15,Dual SIM,8,Super Amoled,6,128,50,5000,5,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A16,54999.0,14,Dual SIM,8,Super Amoled,6,128,50,5000,5,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A15,52999.0,14,Dual SIM,8,Super Amoled,6,128,50,5000,5,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A14 6GB,44999.0,13,Dual SIM,8,,6,128,50,5000,5,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A05s 6GB,44999.0,13,Dual SIM,8,,6,128,50,5000,5,Yes,No,No,Yes,Yes,No,Yes,No,No
+SamsungGalaxy A13,44999.0,12,Dual SIM,8,Tft,4,64,50,5000,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A04s 128GB,43999.0,12,Dual SIM,8,,4,128,50,5000,5,Yes,No,No,Yes,Yes,No,Yes,No,No
+SamsungGalaxy A04s,39999.0,12,Dual SIM,8,,4,64,50,5000,5,Yes,No,No,Yes,Yes,No,Yes,No,No
+SamsungGalaxy A05s,38499.0,13,Dual SIM,8,,4,128,50,5000,5,Yes,No,No,Yes,Yes,No,Yes,No,No
+SamsungGalaxy A07 6GB,38499.0,15,Dual SIM,8,,6,128,50,5000,5,Yes,No,No,Yes,Yes,No,Yes,No,No
+SamsungGalaxy A05 6GB,35999.0,13,Dual SIM,8,,6,128,50,5000,5,Yes,No,No,Yes,Yes,No,No,No,No
+SamsungGalaxy A04 4GB,35499.0,12,Dual SIM,8,,4,64,50,5000,5,Yes,No,Yes,Yes,Yes,No,No,No,No
+SamsungGalaxy A04e,33999.0,12,Dual SIM,8,,4,128,13,5000,4,No,No,Yes,No,Yes,No,No,No,No
+SamsungGalaxy A14,32999.0,13,Dual SIM,8,,4,128,50,5000,5,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A07 128GB,32499.0,15,Dual SIM,8,,4,128,50,5000,5,Yes,No,No,Yes,Yes,No,Yes,No,No
+SamsungGalaxy A06 128GB,31999.0,14,Dual SIM,8,,4,128,50,5000,5,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A05 128GB,29999.0,13,Dual SIM,8,,4,128,50,5000,5,Yes,No,No,Yes,Yes,No,No,No,No
+SamsungGalaxy A07,27499.0,15,Dual SIM,8,,4,64,50,5000,5,Yes,No,No,Yes,Yes,No,Yes,No,No
+SamsungGalaxy A06,26999.0,14,Dual SIM,8,,4,64,50,5000,5,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A05,24999.0,13,Dual SIM,8,,4,64,50,5000,5,Yes,No,No,Yes,Yes,No,No,No,No
+SamsungGalaxy A04,24999.0,12,Dual SIM,8,,3,32,50,5000,5,Yes,No,Yes,Yes,Yes,No,No,No,No
+SamsungGalaxy Z Fold 4 12GB,574999.0,12,Single SIM,8,Foldable,12,512,50,4400,6,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy Z Fold 4,539999.0,12,Dual SIM,8,Foldable,12,256,50,4400,6,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy S23,399999.0,13,Dual SIM,8,Dynamic Amoled,8,,50,3900,6,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy S23 Ultra,389999.0,13,Dual SIM,8,Dynamic Amoled,12,512,200,5000,6,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy Z Flip 4,332999.0,12,Single SIM,8,Foldable,8,512,12,3700,6,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy A73,170499.0,12,Dual SIM,8,Super Amoled,8,256,108,5000,6,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A53,133999.0,12,Dual SIM,8,Super Amoled,8,128,64,5000,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A33 8GB,112499.0,12,Dual SIM,8,Super Amoled,8,128,48,5000,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A23,78499.0,12,Dual SIM,8,,6,128,50,5000,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A33,61999.0,12,Dual SIM,8,Super Amoled,6,128,48,5000,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A03 4GB,41599.0,11,Dual SIM,8,,4,64,48,5000,4,No,No,Yes,Yes,Yes,No,No,No,No
+SamsungGalaxy A03,27999.0,11,Dual SIM,8,,3,32,48,5000,5,Yes,No,Yes,Yes,Yes,No,No,No,No
+SamsungGalaxy S22 Ultra,424999.0,12,Dual SIM,8,Dynamic Amoled,16,512,108,5000,6,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy Z Fold 3,314999.0,11,Dual SIM,8,Foldable,12,256,12,4400,6,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy S21 Ultra,242999.0,11,Dual SIM,8,Dynamic Amoled,12,256,108,5000,6,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy S22,232999.0,12,Dual SIM,8,Dynamic Amoled,8,256,50,3700,6,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy Note 20 Ultra,219999.0,10,Dual SIM,8,Dynamic Amoled,8,256,108,4500,6,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy Z Flip 3,199999.0,11,Single SIM,8,Foldable,8,256,12,3300,6,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy S21 Plus,184999.0,11,Dual SIM,8,Dynamic Amoled,8,256,64,4800,6,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy Note 20,179999.0,10,Dual SIM,8,Super Amoled,8,256,64,4300,6,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy S21,176499.0,11,Dual SIM,8,Dynamic Amoled,8,256,64,4000,6,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy S21 FE 256GB,172999.0,12,Dual SIM,8,Dynamic Amoled,8,256,12,4500,6,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy S20,170999.0,10,Dual SIM,8,Dynamic Amoled,8,128,64,4000,5,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy S21 FE,162999.0,12,Dual SIM,8,Dynamic Amoled,8,128,12,4500,6,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy S20 FE,122499.0,10,Dual SIM,8,Super Amoled,8,128,12,4500,6,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy A52s 256GB,88999.0,11,Dual SIM,8,Super Amoled,8,256,64,4500,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A72,82999.0,11,Dual SIM,8,Super Amoled,8,128,64,5000,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy M52,82999.0,11,Dual SIM,8,Super Amoled,8,128,64,5000,6,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A32,75999.0,11,Dual SIM,8,Super Amoled,6,128,64,5000,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A52s,71999.0,11,Dual SIM,8,Super Amoled,8,128,64,4500,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A22 6GB,69999.0,11,Dual SIM,8,Super Amoled,6,128,48,5000,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A52,65999.0,11,Dual SIM,8,Super Amoled,8,128,64,4500,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A22,59999.0,11,Dual SIM,8,Super Amoled,4,128,48,5000,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A71,56999.0,10,Dual SIM,8,Super Amoled,8,128,64,4500,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A51 8GB,54999.0,10,Dual SIM,8,Super Amoled,8,128,48,4000,5,Yes,No,Yes,No,Yes,Yes,Yes,No,No
+SamsungGalaxy A51,49999.0,10,Dual SIM,8,Super Amoled,6,128,48,4000,5,Yes,No,Yes,No,Yes,Yes,Yes,No,No
+SamsungGalaxy A30s,36999.0,9,Dual SIM,8,Super Amoled,4,64,25,4000,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A31,36999.0,10,Dual SIM,8,Super Amoled,4,128,48,5000,5,Yes,No,Yes,No,Yes,Yes,Yes,No,No
+SamsungGalaxy A20s,30500.0,9,Dual SIM,8,Ips,4,64,13,4000,4,No,No,Yes,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy A21s,29999.0,10,Dual SIM,8,Tft,6,64,48,5000,5,Yes,No,Yes,Yes,Yes,No,Yes,No,No
+SamsungGalaxy A20,28500.0,9,Dual SIM,,Super Amoled,3,32,13,4000,5,Yes,No,Yes,No,Yes,Yes,Yes,No,No
+SamsungGalaxy A12 128GB,27500.0,10,Dual SIM,8,Tft,4,128,48,5000,4,No,No,Yes,Yes,Yes,No,Yes,No,No
+SamsungGalaxy M11,24999.0,10,Dual SIM,8,Tft,3,32,13,5000,4,No,No,Yes,Yes,Yes,No,Yes,No,No
+SamsungGalaxy A12,24999.0,10,Dual SIM,8,Tft,4,64,48,5000,4,No,No,Yes,Yes,Yes,No,Yes,No,No
+SamsungGalaxy A03s 4GB,23499.0,11,Dual SIM,8,Tft,4,64,13,5000,4,No,No,Yes,Yes,Yes,No,Yes,No,No
+SamsungGalaxy A03s,22499.0,11,Dual SIM,8,Tft,3,32,13,5000,4,No,No,Yes,No,Yes,No,Yes,No,No
+SamsungGalaxy A02s 4GB,21399.0,10,Dual SIM,8,Tft,4,64,13,5000,4,No,No,Yes,No,Yes,No,No,No,No
+SamsungGalaxy A02s,18599.0,10,Dual SIM,8,Tft,3,32,13,5000,4,No,No,Yes,No,Yes,No,No,No,No
+SamsungGalaxy A03 Core,18500.0,11,Dual SIM,8,Tft,2,32,8,5000,4,No,No,Yes,No,Yes,No,Yes,No,No
+SamsungGalaxy A02 64GB,17899.0,10,Dual SIM,4,Ips,3,64,13,5000,4,No,No,Yes,Yes,Yes,No,No,No,No
+SamsungGalaxy A10s,16999.0,9,Dual SIM,8,Ips,2,32,13,4000,5,Yes,No,Yes,No,Yes,No,Yes,No,No
+SamsungGalaxy A02,16699.0,10,Dual SIM,4,Ips,3,32,13,5000,4,No,No,Yes,Yes,Yes,No,No,No,No
+SamsungGalaxy A01,15999.0,10,Dual SIM,8,Ips,2,,13,3000,4,No,No,Yes,No,Yes,No,No,No,No
+SamsungGalaxy Note 10,,9,Dual SIM,8,Dynamic Amoled,8,256,16,3500,5,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+SamsungGalaxy A50,,9,Dual SIM,8,Super Amoled,4,128,25,4000,5,Yes,No,Yes,No,Yes,Yes,Yes,No,No
+SamsungGalaxy A30,,9,Dual SIM,8,Super Amoled,4,64,16,4000,5,Yes,No,Yes,No,Yes,Yes,Yes,No,No
+SamsungGalaxy Note 10 Plus,,9,Dual SIM,8,Dynamic Amoled,12,256,16,4300,5,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy A72 256GB,,11,Dual SIM,8,Super Amoled,8,256,64,5000,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy S9,,,Dual SIM,8,Super Amoled,4,64,12,3000,5,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes
+SamsungGalaxy S9 Plus 128GB,,,,,,,,,,,No,No,No,No,No,No,No,No,No
+SamsungGalaxy Fold,,9,Dual SIM,8,Dynamic Amoled,12,512,16,4380,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy S10 Plus 512GB,,,,,,,,,,,No,No,No,No,No,No,No,No,No
+SamsungGalaxy S10,,9,Dual SIM,8,Dynamic Amoled,8,128,16,3400,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+SamsungGalaxy Note 10 Lite,,10,Dual SIM,8,Super Amoled,8,128,12,4500,5,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy Note 8,,,,,,,,,,,No,No,No,No,No,No,No,No,No
+SamsungGalaxy S8,,,,,,,,,,,No,No,No,No,No,No,No,No,No
+SamsungGalaxy Note 9 512GB,,,,,,,,,,,No,No,No,No,No,No,No,No,No
+SamsungGalaxy S9 Plus,,,,,,,,,,,No,No,No,No,No,No,No,No,No
+SamsungGalaxy Z Fold 2,,10,Dual SIM,8,Foldable,12,256,12,4500,6,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy S10 Plus,,9,Dual SIM,8,Dynamic Amoled,8,128,16,4100,5,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes
+SamsungGalaxy S20 Plus,,10,Dual SIM,8,Dynamic Amoled,8,128,64,4500,5,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy S20 Ultra,,10,Dual SIM,8,Dynamic Amoled,12,128,108,5000,5,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy Z Flip,,10,Single SIM,8,Foldable,8,256,12,3300,6,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+SamsungGalaxy S10 Lite,,10,Dual SIM,8,Super Amoled,8,128,48,4500,5,Yes,No,Yes,Yes,Yes,Yes,No,No,No
+SamsungGalaxy Z Tri Fold,639999.0,15,Single SIM,8,Foldable,16,512,50,5700,7,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy S26 Edge,239999.0,15,Dual SIM,8,Ltpo Amoled,12,256,200,4000,7,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy S26 Pro,359999.0,15,Dual SIM,8,Ltpo Amoled,12,256,50,5000,7,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy Z Flip 7 FE,,16,Dual SIM,10,Foldable,8,256,50,4000,6,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy G Fold,654999.0,15,Dual SIM,8,Foldable,16,512,50,5700,6,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+SamsungGalaxy S27 Ultra,434999.0,15,Dual SIM,8,Ltpo Amoled,16,512,50,5500,7,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No
