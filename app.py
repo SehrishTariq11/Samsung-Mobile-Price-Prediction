@@ -20,7 +20,7 @@ camera_mp = st.number_input("Camera (MP)", min_value=12, max_value=200, step=1)
 battery_mAh = st.number_input("Battery (mAh)", min_value=3000, max_value=7000, step=100)
 wifi_version = st.number_input("WiFi Version", min_value=5, max_value=7, step=1)
 
-# Binary features
+# Binary inputs
 def yes_no_input(label):
     return 1 if st.selectbox(label, ["Yes", "No"]) == "Yes" else 0
 
@@ -32,30 +32,25 @@ accelerometer = yes_no_input("Accelerometer")
 compass = yes_no_input("Compass")
 fingerprint = yes_no_input("Fingerprint")
 barometer = yes_no_input("Barometer")
-heart_rate = yes_no_input("Heart Rate Sensor")
 
-# Encoding SIM & Display to match dataset numeric format
-sim_type_map = {"Single SIM": 0, "Dual SIM": 1}
-sim_type = sim_type_map[sim_type]
+# Encoding
+sim_type = {"Single SIM": 0, "Dual SIM": 1}[sim_type]
+display_type = {"Dynamic Amoled": 0, "Foldable": 1, "Super Amoled": 3}[display_type]
 
-display_map = {"Dynamic Amoled": 0, "Foldable": 1, "Super Amoled": 3}
-display_type = display_map[display_type]
-
-# Predict button
+# Predict
 if st.button("Predict Price"):
     input_data = pd.DataFrame([[
-        build_os, sim_type, cpu_cores,
-        display_type, ram_gb, storage_gb, camera_mp, battery_mAh,
-        wifi_version, dual_band, tri_band, hotspot, wifi_direct,
-        accelerometer, compass, fingerprint, barometer, heart_rate
+        build_os, sim_type, cpu_cores, display_type, ram_gb, storage_gb,
+        camera_mp, battery_mAh, wifi_version, dual_band, tri_band, hotspot,
+        wifi_direct, accelerometer, compass, fingerprint, barometer
     ]], columns=[
         'Build_OS', 'SIM_Type', 'CPU_Cores', 'Display_Type', 'RAM_GB',
         'Storage_GB', 'Camera_MP', 'Battery_mAh', 'WiFi_Version',
         'Dual_Band', 'Tri_Band', 'Hotspot', 'WiFi_Direct',
-        'Accelerometer', 'Compass', 'Fingerprint', 'Barometer', 'HeartRate'
+        'Accelerometer', 'Compass', 'Fingerprint', 'Barometer'
     ])
 
     price = model.predict(input_data)[0]
-    st.success(f"Predicted Price: {price:.2f} PKR")
+    st.success(f"Predicted Price: {price:,.0f} PKR")
 
-st.caption("Samsung Mobile Price Prediction App ")
+st.caption("Samsung Mobile Price Prediction App")
